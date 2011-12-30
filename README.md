@@ -9,23 +9,27 @@ You can see it run online as a java applet: http://numeral.com/panels/everyicon.
 
 I was inspired by this project and reverse-engineered it in ruby for fun. It runs in the terminal with ascii output.
 
-== Run it
+Run it
+------
 
     ruby every_icon.rb
 
 It starts by displaying all 8x8 icons and moves on to 32x32 (after a few days).
 
-== Run for different size grids
+Run for different size grids
+---------------------------
 
 Look at the last line - it's easy to run it for different size grids.
 
     Grid.new(8).run
 
-== Environment
+Environment
+-----------
 
 It works on ruby 1.9.3 on OSX.
 
-== ToDo
+ToDo
+----
 
 Feel free to make the display nicer. Send me a pull request.
 
