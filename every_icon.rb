@@ -26,7 +26,7 @@ class Grid
   end
 
   def run
-    (1..@dots).each{|i| every i}
+    (1..@dots).each{|dot| every dot}
   end
 
   
