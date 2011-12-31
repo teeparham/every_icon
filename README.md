@@ -1,7 +1,7 @@
 Every Icon
 ==========
 
-John F. Simon, Jr. created "Every Icon", a program/art piece to display every possible 32x32 icon. 
+In 1996, John F. Simon, Jr. created "Every Icon", a program/art piece to display every possible 32x32 icon. 
 
 Here is his statement about the project: http://numeral.com/articles/paraicon/paraicon.html
 
