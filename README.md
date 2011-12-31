@@ -14,7 +14,7 @@ Run it
 
     ruby every_icon.rb
 
-It starts by displaying all 8x8 icons and moves on to 32x32 (after a few days).
+It starts by displaying all 8x8 icons and then moves on to 32x32 (after a few billion years).
 
 Run for different size grids
 ---------------------------
